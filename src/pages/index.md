@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+title: 多摩地区ノンジャンルもくもく会「たまもく」活動記録
+image: /img/freddy-castro-u3ajSXhZM_U-unsplash.jpg
+heading: 多摩地区ノンジャンルもくもく会「たまもく」活動記録
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
